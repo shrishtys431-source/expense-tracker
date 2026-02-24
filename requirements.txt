@@ -13,4 +13,4 @@ pyinstaller-hooks-contrib==2025.8
 pywin32-ctypes==0.2.3
 setuptools==80.9.0
 Werkzeug==3.1.6
-gunicorn==22.1.0
+gunicorn
